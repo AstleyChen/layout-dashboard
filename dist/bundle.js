@@ -25471,7 +25471,7 @@ var PageHeader = function PageHeader(props) {
       {
         __self: _this
       },
-      'Mozilla DevRel Dashboard'
+      'Mozilla Taipei Layout Dashboard'
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__NetworkStatus__["a" /* default */], {
       __self: _this
